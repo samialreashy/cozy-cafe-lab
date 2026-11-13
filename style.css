@@ -58,7 +58,12 @@ li {
 .specialty-status {
   font-weight: bold;
 }
-
+.featured{
+    background-color: #eadbc8;
+    border: 1px solid #76523c;
+    padding: 12 px;
+    text-align: center;
+}
 button {
   background-color: #76523c;
   color: white;
